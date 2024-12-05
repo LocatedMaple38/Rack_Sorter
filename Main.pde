@@ -3,6 +3,7 @@ int addInt = 1;
 
 
 boolean fileBool = false;
+float xFile, yFile, widthFile, heightFile;
 float xFileSaveAs, yFileSaveAs, widthFileSaveAs, heightFileSaveAs;
 float xFileSave, yFileSave, widthFileSave, heightFileSave;
 float xFileLoad, yFileLoad, widthFileLoad, heightFileLoad;
@@ -14,7 +15,6 @@ float xAddRackWallMount, yAddRackWallMount, widthAddRackWallMount, heightAddRack
 float xAddRack1U, yAddRack1U, widthAddRack1U, heightAdd1U;
 
 float xAdd, yAdd, widthAdd, heightAdd;
-float xFile, yFile, widthFile, heightFile;
 
 void setup(){
     add();
