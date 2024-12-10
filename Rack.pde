@@ -1,3 +1,7 @@
+void rackSetup(){
+
+}
+
 void rackDraw(){
 
 }
