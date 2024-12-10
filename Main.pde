@@ -17,11 +17,11 @@ float xAddRack1U, yAddRack1U, widthAddRack1U, heightAdd1U;
 float xAdd, yAdd, widthAdd, heightAdd;
 
 void setup(){
-    add();
+    menuSetup();
 }
 
 void Draw(){
-
+    menuDrew();
 }
 
 void mousePressed(){
