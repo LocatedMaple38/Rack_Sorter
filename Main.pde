@@ -16,6 +16,9 @@ float xAddRack1U, yAddRack1U, widthAddRack1U, heightAdd1U;
 
 float xAdd, yAdd, widthAdd, heightAdd;
 
+int rackINT = 1;
+float[] xRack = new float[rackINT], yRack = new float[rackINT], widthRack = new float[rackINT], heightRack = new float[rackINT];
+
 void setup(){
     menuSetup();
 }
